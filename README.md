@@ -1,4 +1,4 @@
-## Hi there, I'm Chandra SHekhar Pandey  👋
+## Hi there, I'm Chandra Shekhar Pandey  👋
 
 <div id="badges">
   <a href="https://www.linkedin.com/in/chandra8848/">
